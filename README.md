@@ -1,3 +1,2 @@
 # Casey
-Description Box
-Student Discount Pro Thing
+I am learning how to program currently
